@@ -1,0 +1,25 @@
+.list {
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+}
+
+.contact {
+  margin-top: 0;
+}
+
+.button {
+  margin-left: 10px;
+  background-color: beige;
+  border: 1px solid orange;
+  border-radius: 4px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: burlywood;
+}
